@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "C51",
+            "includePath": [
+                "include/",
+                "/usr/share/sdcc/include/mcs51/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/sdcc",
+            "cStandard": "c99"
+        }
+    ],
+    "version": 4
+}
